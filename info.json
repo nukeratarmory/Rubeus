@@ -1,0 +1,20 @@
+{
+    "name": "Rubeus",
+    "description": "Rubeus is a Kerberos-focused toolset for Active Directory enabling ticket extraction/injection, overpass-the-hash, pass-the-ticket, Kerberoasting, AS-REP roasting, and delegation abuse.",
+    "version": "0.0.1",
+    "uuid": "7b481acc-9c14-4487-adf8-8cae659fcec9",
+    "command": "rubeus",
+    "type": ".net",
+    "repository": "https://github.com/nukeratarmory/Rubeus",
+    "metadata": {
+        "author": {
+            "name": "GhostPack",
+            "original_repository": "https://github.com/GhostPack/Rubeus"
+        },
+        "platform": [
+            "windows"
+        ],
+        "architecture": "any",
+        "net_version": "4.0"
+    }
+}
