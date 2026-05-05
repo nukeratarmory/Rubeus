@@ -7,10 +7,16 @@
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/Rubeus",
     "metadata": {
-        "author": {
-            "name": "GhostPack",
-            "original_repository": "https://github.com/GhostPack/Rubeus"
-        },
+        "author": [
+            {
+                "name": "GhostPack",
+                "original_repository": "https://github.com/GhostPack/Rubeus"
+            },
+            {
+                "name": "sliver",
+                "original_repository": "https://github.com/sliverarmory/rubeus"
+            }
+        ],
         "platform": [
             "windows"
         ],
