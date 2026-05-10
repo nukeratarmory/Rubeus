@@ -1,7 +1,6 @@
 {
     "name": "Rubeus",
     "version": "0.0.1",
-    "uuid": "7b481acc-9c14-4487-adf8-8cae659fcec9",
     "command": "rubeus",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/Rubeus",
